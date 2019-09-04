@@ -100,4 +100,21 @@ module.exports = {
 }
 ```
 
-3. 
+3. 这个 demo 的更多信息，[查看](https://www.yuque.com/wanchun/web/mgvq9o)
+
+## 总结
+
+这个配置具有的功能：
+
+- 解析文件
+  - 解析 ECMAScript
+  - 解析 JSX
+  - 解析 css
+  - 解析 less
+  - 解析图片和字体
+- 文件监听（手动构建）
+- 热更新（自动构建）
+- 文件指纹
+- 代码压缩
+
+- [源代码](https://github.com/threegeese/falsework/tree/master/webpack-demo)
