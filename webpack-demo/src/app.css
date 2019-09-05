@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'OperatorMono-Medium';
+  src: url('./images/OperatorMono-Medium.otf')
+}
+
+.red {
+  color: red;
+  font-family: 'OperatorMono-Medium';
+  display: flex;
+}
+
